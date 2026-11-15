@@ -45,7 +45,14 @@ CloudWatch graphs displayed CPU, memory, disk, and instance health monitoring da
 
 ## Dashboard Evidence
 
-Dashboard screenshot will be added to the screenshots directory.
+## Dashboard Evidence
+
+The CloudWatch dashboard displays real-time infrastructure monitoring for an Amazon Linux 2023 EC2 instance.
+
+The dashboard includes CPU utilization, memory utilization, disk utilization, and EC2 instance status checks.
+
+![AWS CloudWatch Monitoring Dashboard](screenshots/cloudwatch-monitoring-dashboard.png)
+
 
 ## Future Improvements
 
