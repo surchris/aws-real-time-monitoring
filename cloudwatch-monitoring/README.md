@@ -73,3 +73,5 @@ The dashboard includes CPU utilization, memory utilization, disk utilization, an
 All infrastructure monitoring and notification integration checks were completed successfully.
 
 [View Testing and Validation Report](docs/testing-and-validation.md)
+
+[View AWS Cost Cleanup Checklist](docs/cost-cleanup.md)
