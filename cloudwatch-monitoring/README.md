@@ -54,7 +54,16 @@ The dashboard includes CPU utilization, memory utilization, disk utilization, an
 
 ## Future Improvements
 
-- CloudWatch alarms
-- Amazon SNS notifications
-- Automated infrastructure deployment
-- Monitoring and alerting tests
+## Monitoring and Alerting Evidence
+
+### CloudWatch Dashboard
+![CloudWatch Monitoring Dashboard](screenshots/cloudwatch-dashboard.png)
+
+### CloudWatch Alarms
+![CloudWatch Alarm Verification](screenshots/cloudwatch-alarms.png)
+
+### SNS Alarm Notification
+![SNS Email Notification](screenshots/sns-alarm-notification.png)
+
+### Architecture Diagram
+[View AWS Monitoring Architecture](architecture/aws-monitoring-architecture.md)
