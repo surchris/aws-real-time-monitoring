@@ -67,3 +67,9 @@ The dashboard includes CPU utilization, memory utilization, disk utilization, an
 
 ### Architecture Diagram
 [View AWS Monitoring Architecture](architecture/aws-monitoring-architecture.md)
+
+## Testing and Validation
+
+All infrastructure monitoring and notification integration checks were completed successfully.
+
+[View Testing and Validation Report](docs/testing-and-validation.md)
