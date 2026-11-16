@@ -1,2 +1,3 @@
-# aws-real-time-monitoring
-Real-time AWS infrastructure monitoring using EC2, CloudWatch and SNS
+### Architecture Diagram
+
+[View AWS Monitoring Architecture](architecture/aws-monitoring-architecture.md)
