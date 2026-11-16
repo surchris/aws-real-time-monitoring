@@ -74,4 +74,6 @@ All infrastructure monitoring and notification integration checks were completed
 
 [View Testing and Validation Report](docs/testing-and-validation.md)
 
+## Cost Management
+
 [View AWS Cost Cleanup Checklist](docs/cost-cleanup.md)
